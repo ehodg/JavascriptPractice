@@ -1,0 +1,14 @@
+.loops, .part-two {
+    display: flex;
+    padding: 10px;
+    border: 1px solid black;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.loops > div, .part-two > div {
+    padding: 10px;
+    align-items: center;
+}
+
+
